@@ -1,5 +1,7 @@
 # attack-rosetta
-A Rosetta Stone for MITRE ATT&amp;CK related projects, offering links and role-based guidance
+A Rosetta Stone for MITRE ATT&amp;CK related projects, offering links and role-based guidance.
+
+<img src="ATT&CK_Ecosystem.png" width=800>
 
 Core Framework & Database:
 - [MITRE ATT&CK](https://attack.mitre.org): This core project website offers browsable access to the ATT&CK Database, links to Navigator views, and pivots to the source information that drive its open-source contents. This is a must across all roles.
