@@ -28,5 +28,5 @@ A Rosetta Stone for MITRE ATT&amp;CK related projects, offering links and role-b
 
 ## 3rd Party Tools and extensions of note:
 - [D3TT&CT](https://github.com/rabobank-cdc/DeTTECT): This project is essential to helping map coverage based on Operating System and kernel features, configurations, and the corresponding logging options. Running as either a local Python web service or available as a container, this tool helps in creating mappings of detections and coverages, as well as in defining new adversaries TTP maps. 
-- [R3&CT](https://atc-project.github.io/atc-react/): this project's collaborators set out to map actionable Incident Response actions to ATT&CK TTPs, and can be useful to IR folks in ensuring they have their bases covered.
+- [REACT](https://atc-project.github.io/atc-react/): this project's collaborators set out to map actionable Incident Response actions to ATT&CK TTPs, and can be useful to IR folks in ensuring they have their bases covered.
 - [MITRE ATT&CK Insights](https://ma-insights.vercel.app/overview): This project seeks to help users visualize how prevalent TTPs are for each attacker, and alternatively how popular TTPs, software, malware and the like are across all ATT&CK-categorized threat actors.
