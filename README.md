@@ -2,7 +2,7 @@
 ## Introduction
 A Rosetta Stone for MITRE ATT&amp;CK related projects, offering links and role-based guidance. This will be added to as time permits, and while it does not catacoogue every single ATT&CK-related project, it does seek to cover those most directly tied to the project and to this author's work.
 
-<img src="ATT&CK_Ecosystemv2.jpg" width=800>
+<img src="ATT&CK_Ecosystem(Fall2024).jpg" width=800>
 
 ## Core Framework & Database:
 - [MITRE ATT&CK](https://attack.mitre.org): This core project website offers browsable access to the ATT&CK Database, links to Navigator views, and pivots to the source information that drive its open-source contents. This is a must across all roles.
